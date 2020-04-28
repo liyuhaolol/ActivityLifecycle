@@ -1,0 +1,3 @@
+rootProject.name='ActivityLifecycle'
+include ':app'
+include ':lib_lifecycle'
