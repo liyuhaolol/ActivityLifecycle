@@ -2,15 +2,12 @@
 
 用来统计App整个运行中，各个actvity综合的生命周期，可以判断app是否在前台显示，是否可见等功能
 
-## 1.0.0更新
-
-- 初始化更新同步到云库
 
 ## 框架引用方法
 
 - 在gradle中:
 ```gradle
-    implementation 'spa.lyh.cn:lib_lifecycle:1.0.0'
+    implementation("io.github.liyuhaolol:ActivityLifecycle:1.0.2")
 ```
 
 ## 使用方法
